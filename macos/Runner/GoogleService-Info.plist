@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCEdM3dvHcbyfsCwXIfZ3dSNgYVWLVEgHI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>790731274817</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterPushBackV2</string>
+	<key>PROJECT_ID</key>
+	<string>doguber-fcm-test</string>
+	<key>STORAGE_BUCKET</key>
+	<string>doguber-fcm-test.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:790731274817:ios:a868b5476c6d2d016e64c0</string>
+</dict>
+</plist>

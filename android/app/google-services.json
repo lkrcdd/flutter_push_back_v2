@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790731274817",
+    "project_id": "doguber-fcm-test",
+    "storage_bucket": "doguber-fcm-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790731274817:android:42c857a0234f2fac6e64c0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_back_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmUKSNiZa_yRRBtkwLIqtgNigZV7AMclc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790731274817:android:f34b01ec58889bab6e64c0",
+        "android_client_info": {
+          "package_name": "doguber.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmUKSNiZa_yRRBtkwLIqtgNigZV7AMclc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
